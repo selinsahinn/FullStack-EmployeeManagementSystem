@@ -8,7 +8,7 @@ You must enter your own MySQL username and password into the project.
 
 Then run the Spring Boot application on the compiler you are using.(IntelliJ IDEA was used when creating the project.)
 
-To React, you must first type npm i, then the npm run start command into the terminal. 'http://localhost:3000 /' will be working on the link.
+To React, you must first type npm i, then the npm run start command into the terminal. 'http://localhost:3000/' will be working on the link.
 
 Spring Boot: Running on port 8080.
 
